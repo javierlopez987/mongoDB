@@ -1,4 +1,4 @@
 # Seminario MongoDB
 
-- [Actividad inicial](./practica/tp0.md)
+- [Configuracion inicial](./practica/config.md)
 - [Actividad 1](./practica/tp1.md)
