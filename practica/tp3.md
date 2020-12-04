@@ -1,5 +1,5 @@
 # MongoDB
-## Actividad 2
+## Actividad 3
 **Conectarse a MongoDB vía CLI**
 ```js
 	mongod
