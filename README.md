@@ -3,6 +3,7 @@
 - [Configuracion inicial](./practica/config.md)
 - [Actividad 1](./practica/tp1.md)
 - [Actividad 2](./practica/tp2.md)
+- [Actividad 3](./practica/tp3.md)
 
 ## Trabajo Final Grupal
 ### Link a repositorio de entrega
